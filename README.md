@@ -6,4 +6,4 @@ It is a responsive calculator app that works with clicks. Click the link above a
 # Built With
 -HTML5\
 -CSS3\
--JavaScript\
+-JavaScript
